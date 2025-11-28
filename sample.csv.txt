@@ -1,0 +1,4 @@
+Name,Age,GPA,Major
+Essa,20,3.85,Electrical Engineering
+Sarah,21,3.75,Computer Science
+Ahmed,19,3.90,Mechanical Engineering
